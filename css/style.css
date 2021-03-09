@@ -1,0 +1,209 @@
+/* css for 0th container heading and navigation */
+.my_header{
+    background-image: url("../images/banner4.jpg");
+    height: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: auto;
+    
+}
+
+
+/*css for 1st container(banner and cards)*/
+
+.background-image {
+   
+    background-repeat: no-repeat;
+    max-width: 100%;
+   
+}
+.banner_row {
+    padding-top: 0rem;
+    margin-top: -12%;
+}
+.navigation_bar {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+}
+.banner_col{
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+     -moz-box-shadow: 0 10px 6px -6px #777;
+          box-shadow: 0 10px 6px -6px #777;
+}
+.banner_col:hover {
+    background-color: skyblue;
+    transition:0.8s;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+     -moz-box-shadow: 0 10px 6px -6px #777;
+          box-shadow: 0 10px 6px -6px #777;
+}
+
+
+/*css for 2nd container(why choose us)*/
+.why_choose_cont{
+background-color: #B4BDCB;
+position: initial;
+}
+/* .why_choose_cont::after{
+    content: "";
+    clear: both;
+    display: table;
+} */
+.why_choose_row{
+    height: 50%;
+ 
+    
+}
+.why_choose_row h2{
+    text-align: center;
+   font-family:Arial, Helvetica, sans-serif ;
+   font-weight: bold;
+
+}
+.why_choose_col{
+   padding-top: 3rem;
+  border: none;
+    
+}
+.why_choose_card{
+    padding-top: 0rem;
+   font-weight: bold;
+   
+}
+
+.counter-count
+{
+    font-size: 2rem;
+   text-align: center;
+}
+/*for second row of this container*/
+
+    .why_choose_row2{
+        height:75%;
+     
+        
+    }
+    
+    .why_choose_col2{
+       padding-top: 3rem;
+      
+        
+    }
+    .why_choose_card2{
+        padding: 0.3rem;
+       font-weight: bold;
+       
+    }
+    /* container 3rd services including video */
+    .services{
+        margin-top: 0%;
+        background-color: #fff;
+        padding-top: 5%;
+    }
+    .row_video{
+        margin-top: 5%;
+        height: 65%;
+    }
+    .col_video_first{
+        margin-left: 11%;
+    }
+    .col_video_second{
+        margin-left: 3%;
+    }
+    
+    /* container 4th testimonials*/
+    .testimonials{
+        height: 80%;
+        background-color: aliceblue;
+        
+    }
+    /* container 5th contact us */
+    .contact{
+        height: 100%;
+        padding-top: 3%;
+        background-color: #fff ;
+    }
+    .form_image{
+        width: auto;
+        background-image: url("../images/banner4.jpg");
+        background-size: cover;
+        margin-left: 8%;
+        box-shadow: 0px 3px 6px 0px rgba(0,0,0,01);
+    }
+    .form_submit{
+        box-shadow: 0px 3px 6px 0px rgba(0,0,0,01);
+        padding: 0.5rem;
+    }
+    
+    /* footer */
+
+    .footer_one{
+        padding-top: 3%;
+       
+    }
+    .footer_one ul{
+        list-style: none;
+        padding-inline-start:0
+    }
+    .footer_one ul li{
+        padding: 3%;
+        
+    }
+
+    .footer_two{
+        padding-top: 3%;
+        padding-left: 4%;
+       
+    }
+    .footer_two ul{
+        list-style: none;
+        padding-inline-start:0
+    }
+    .footer_two ul li{
+        padding: 3%;
+        
+    }
+
+    .footer_three{
+        padding-top: 3%;
+        padding-left: 4%;
+       
+    }
+    .footer_three ul{
+        list-style: none;
+        padding-inline-start:0
+    }
+    .footer_three ul li{
+        padding: 3%;
+        
+    }
+
+    .footer_four{
+        padding-top: 3%;
+        padding-left: 3%;
+       
+    }
+    .footer_four ul{
+        list-style: none;
+        padding-inline-start:0
+    }
+    .footer_four ul li{
+        padding: 3%;
+        
+    }
+
+    .footer_five{
+        padding-top: 3%;
+        padding-left: 4%;
+       
+    }
+    .footer_five ul{
+        list-style: none;
+        padding-inline-start:0
+    }
+    .footer_five ul li{
+        padding: 3%;
+        
+    }
